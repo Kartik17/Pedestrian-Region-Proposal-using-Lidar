@@ -1,0 +1,7 @@
+*.bin
+*.zip
+.DS_Store
+*.png
+*.txt
+*.pyc
+*.ipynb
