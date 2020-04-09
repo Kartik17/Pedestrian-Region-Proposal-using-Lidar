@@ -1,4 +1,4 @@
-# Region_Proposals_PointCloud_Clustering
+# Region Proposals PointCloud Clustering
 
 ## How to Generate Region Proposals<br/>
 First, Download KITTI data and arrange it in folders inside Data respecively<br/>
